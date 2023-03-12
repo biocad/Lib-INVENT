@@ -1,4 +1,4 @@
-from reinvent_scoring import Standardizer, Conversions
+from reinvent_chemistry import Standardizer, Conversions
 from reinvent_scoring import ScoringFunctionFactory
 from reinvent_scoring.scoring.score_summary import FinalSummary
 

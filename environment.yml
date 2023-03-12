@@ -214,8 +214,8 @@ dependencies:
     - numpy==1.19.5
     - opt-einsum==3.3.0
     - protobuf==3.11.3
-    - reinvent-chemistry==0.0.31
-    - reinvent-scoring==0.0.20
+    #- reinvent-chemistry==0.0.31
+    #- reinvent-scoring==0.0.20
     - tensorboard==2.4.1
     - tensorflow-estimator==2.4.0
     - werkzeug==1.0.0
